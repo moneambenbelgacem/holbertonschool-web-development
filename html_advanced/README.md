@@ -23,5 +23,5 @@ For this project, we expect you to look at these concepts:
 
 ## Objectives
 
-![image info](/images/Homepage.png)
-![image info](/images/img-2.jpg)
+![image info](./images/Homepage.png)
+![image info](./images/img-2.jpg)
